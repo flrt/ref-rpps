@@ -158,9 +158,6 @@ class RPPS:
         full_url, remote_fn, data_date = self.find_link()
         self.logger.debug("URL=%s, remote=%s, date=%s" % (full_url, remote_fn, data_date))
 
-        #prev_fn, prev_date = self.extract_data_filename(self.previous)
-        #self.logger.debug("prev URL = %s, fn = %s, date = %s" % (self.previous, prev_fn, prev_date))
-
         self.logger.debug("prev date = %s"%self.last_check_date)
         _fmt = '%Y%m%d%H%M'
         delta = dt.strptime(data_date, _fmt) - dt.strptime(self.last_check_date, _fmt)
