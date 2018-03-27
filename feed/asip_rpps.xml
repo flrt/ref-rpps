@@ -1,0 +1,718 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://www.opikanoba.org/feeds/rpps</id>
+  <title>Mise à jour du Référentiel RPPS</title>
+  <subtitle>Referentiel - RPPS / ASIP</subtitle>
+  <link href="https://annuaire.sante.fr/web/site-pro/extractions-publiques" rel="related"/>
+  <link href="http://www.opikanoba.org/feeds/rppsasip_rpps.xml" rel="self"/>
+  <updated>2018-03-27T13:32:11.206786+00:00</updated>
+  <author>
+    <name>Frederic LAURENT</name>
+    <email>frederic.laurent@gmail.com</email>
+  </author>
+  <category term="referentiel,asip,RPPS"/>
+  <generator uri="https://github.com/flrt/atom_gen" version="1.0">python program - atom.py</generator>
+  <rights>CC BY-SA 3.0 FR</rights>
+  <entry>
+    <title>Mise à jour RPPS du 2018-03-27</title>
+    <link href="https://www.opikanoba.org/data/rpps/rpps_index_2018-03-27.csv" rel="related" type="text/plain"/>
+    <id>rpps2018-03-27</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://www.opikanoba.org/data/rpps/rpps_index_2018-03-27.csv">https://www.opikanoba.org/data/rpps/rpps_index_2018-03-27.csv</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+  <h1>Modifications</h1>
+  <h2>Informations générales</h2>
+  <ul>
+    <li>Nombre de lignes : 695508</li>
+    <li>Nombre de RPPS : 562281</li>
+    <li>Mails MSsante : 88119</li>
+    <li>Domaines MSsante : 440</li>
+  </ul>
+  <h2>Top 10</h2>
+  <ul>
+    <li>medecin.mssante.fr : 34469</li>
+    <li>ramsaygds.mssante.fr : 11986</li>
+    <li>aura.mssante.fr : 11588</li>
+    <li>medecin.mp.mssante.fr : 5836</li>
+    <li>sephira.mssante.fr : 5439</li>
+    <li>pro.mssante.fr : 4583</li>
+    <li>chu-montpellier.mssante.fr : 2688</li>
+    <li>ssa.mssante.fr : 2572</li>
+    <li>aquitaine.mssante.fr : 2396</li>
+    <li>pc.mssante.fr : 2180</li>
+  </ul>
+  <h2>chu-mssante</h2>
+  <ul>
+    <li>chu-amiens.mssante.fr : 0</li>
+    <li>chu-rennes.mssante.fr : 1</li>
+    <li>chu-besancon.mssante.fr : 11</li>
+    <li>chu-bordeaux.mssante.fr : 120</li>
+    <li>chu-brest.mssante.fr : 0</li>
+    <li>chu-caen.mssante.fr : 838</li>
+    <li>chu-clermontferrand.mssante.fr : 99</li>
+    <li>chu-dijon.mssante.fr : 1014</li>
+    <li>chu-grenoble.mssante.fr : 0</li>
+    <li>chu-lille.mssante.fr : 0</li>
+    <li>chu-limoges.mssante.fr : 892</li>
+    <li>chu-lyon.mssante.fr : 5</li>
+    <li>aphm.mssante.fr : 11</li>
+    <li>sante-martinique.mssante.fr : 64</li>
+    <li>hpdir-metz.mssante.fr : 0</li>
+    <li>chu-montpellier.mssante.fr : 2688</li>
+    <li>chu-nancy.mssante.fr : 0</li>
+    <li>chu-nantes.mssante.fr : 0</li>
+    <li>chu-nice.mssante.fr : 1330</li>
+    <li>chu-nimes.mssante.fr : 915</li>
+    <li>chr-orleans.mssante.fr : 134</li>
+    <li>aphp.mssante.fr : 251</li>
+    <li>guadeloupe.mssante.fr : 72</li>
+    <li>chu-poitiers.mssante.fr : 788</li>
+    <li>chu-reims.mssante.fr : 0</li>
+    <li>chu-rennes.mssante.fr : 1</li>
+    <li>chu-rouen.mssante.fr : 1256</li>
+    <li>chu-st-etienne.mssante.fr : 0</li>
+    <li>chru-strasbourg.mssante.fr : 14</li>
+    <li>chu-toulouse.mssante.fr : 1482</li>
+    <li>chu-tours.mssante.fr : 886</li>
+  </ul>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-03-27T13:33:54.385877+00:00</updated>
+    <summary>Informations sur la publication RPPS du 2018-03-27</summary>
+  </entry>
+  <entry>
+    <title>Mise à jour RPPS du 20180326</title>
+    <link href="https://www.opikanoba.org/data/rpps/rpps_index_20180326.csv" rel="related" type="text/plain"/>
+    <id>rpps20180326</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://www.opikanoba.org/data/rpps/rpps_index_20180326.csv">https://www.opikanoba.org/data/rpps/rpps_index_20180326.csv</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+  <h1>Modifications</h1>
+  <h2>Informations générales</h2>
+  <ul>
+    <li>Nombre de lignes : 695352</li>
+    <li>Nombre de RPPS : 562248</li>
+    <li>Mails MSsante : 87659</li>
+    <li>Domaines MSsante : 440</li>
+  </ul>
+  <h2>Top 10</h2>
+  <ul>
+    <li>medecin.mssante.fr : 34461</li>
+    <li>ramsaygds.mssante.fr : 11986</li>
+    <li>aura.mssante.fr : 11583</li>
+    <li>medecin.mp.mssante.fr : 5837</li>
+    <li>sephira.mssante.fr : 5440</li>
+    <li>pro.mssante.fr : 4582</li>
+    <li>chu-montpellier.mssante.fr : 2688</li>
+    <li>ssa.mssante.fr : 2572</li>
+    <li>aquitaine.mssante.fr : 2393</li>
+    <li>pc.mssante.fr : 2183</li>
+  </ul>
+  <h2>chu-mssante</h2>
+  <ul>
+    <li>chu-amiens.mssante.fr : 0</li>
+    <li>chu-rennes.mssante.fr : 1</li>
+    <li>chu-besancon.mssante.fr : 11</li>
+    <li>chu-bordeaux.mssante.fr : 120</li>
+    <li>chu-brest.mssante.fr : 0</li>
+    <li>chu-caen.mssante.fr : 839</li>
+    <li>chu-clermontferrand.mssante.fr : 99</li>
+    <li>chu-dijon.mssante.fr : 1014</li>
+    <li>chu-grenoble.mssante.fr : 0</li>
+    <li>chu-lille.mssante.fr : 0</li>
+    <li>chu-limoges.mssante.fr : 892</li>
+    <li>chu-lyon.mssante.fr : 5</li>
+    <li>aphm.mssante.fr : 11</li>
+    <li>sante-martinique.mssante.fr : 64</li>
+    <li>hpdir-metz.mssante.fr : 0</li>
+    <li>chu-montpellier.mssante.fr : 2688</li>
+    <li>chu-nancy.mssante.fr : 0</li>
+    <li>chu-nantes.mssante.fr : 0</li>
+    <li>chu-nice.mssante.fr : 660</li>
+    <li>chu-nimes.mssante.fr : 915</li>
+    <li>chr-orleans.mssante.fr : 134</li>
+    <li>aphp.mssante.fr : 251</li>
+    <li>guadeloupe.mssante.fr : 72</li>
+    <li>chu-poitiers.mssante.fr : 788</li>
+    <li>chu-reims.mssante.fr : 0</li>
+    <li>chu-rennes.mssante.fr : 1</li>
+    <li>chu-rouen.mssante.fr : 1256</li>
+    <li>chu-st-etienne.mssante.fr : 0</li>
+    <li>chru-strasbourg.mssante.fr : 14</li>
+    <li>chu-toulouse.mssante.fr : 1483</li>
+    <li>chu-tours.mssante.fr : 886</li>
+  </ul>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-03-27T08:57:16.307405+00:00</updated>
+    <summary>Informations sur la publication RPPS du 20180326</summary>
+  </entry>
+  <entry>
+    <title>Mise à jour RPPS du 20180325</title>
+    <link href="https://www.opikanoba.org/data/rpps/rpps_index_20180325.csv" rel="related" type="text/plain"/>
+    <id>rpps20180325</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://www.opikanoba.org/data/rpps/rpps_index_20180325.csv">https://www.opikanoba.org/data/rpps/rpps_index_20180325.csv</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+  <h1>Modifications</h1>
+  <h2>Informations générales</h2>
+  <ul>
+    <li>Nombre de lignes : 695312</li>
+    <li>Nombre de RPPS : 562247</li>
+    <li>Mails MSsante : 87644</li>
+    <li>Domaines MSsante : 440</li>
+  </ul>
+  <h2>Top 10</h2>
+  <ul>
+    <li>medecin.mssante.fr : 34458</li>
+    <li>ramsaygds.mssante.fr : 11986</li>
+    <li>aura.mssante.fr : 11556</li>
+    <li>medecin.mp.mssante.fr : 5837</li>
+    <li>sephira.mssante.fr : 5439</li>
+    <li>pro.mssante.fr : 4582</li>
+    <li>chu-montpellier.mssante.fr : 2688</li>
+    <li>ssa.mssante.fr : 2572</li>
+    <li>aquitaine.mssante.fr : 2393</li>
+    <li>pc.mssante.fr : 2183</li>
+  </ul>
+  <h2>chu-mssante</h2>
+  <ul>
+    <li>chu-amiens.mssante.fr : 0</li>
+    <li>chu-rennes.mssante.fr : 1</li>
+    <li>chu-besancon.mssante.fr : 11</li>
+    <li>chu-bordeaux.mssante.fr : 120</li>
+    <li>chu-brest.mssante.fr : 0</li>
+    <li>chu-caen.mssante.fr : 839</li>
+    <li>chu-clermontferrand.mssante.fr : 99</li>
+    <li>chu-dijon.mssante.fr : 1014</li>
+    <li>chu-grenoble.mssante.fr : 0</li>
+    <li>chu-lille.mssante.fr : 0</li>
+    <li>chu-limoges.mssante.fr : 892</li>
+    <li>chu-lyon.mssante.fr : 5</li>
+    <li>aphm.mssante.fr : 11</li>
+    <li>sante-martinique.mssante.fr : 64</li>
+    <li>hpdir-metz.mssante.fr : 0</li>
+    <li>chu-montpellier.mssante.fr : 2688</li>
+    <li>chu-nancy.mssante.fr : 0</li>
+    <li>chu-nantes.mssante.fr : 0</li>
+    <li>chu-nice.mssante.fr : 660</li>
+    <li>chu-nimes.mssante.fr : 915</li>
+    <li>chr-orleans.mssante.fr : 134</li>
+    <li>aphp.mssante.fr : 251</li>
+    <li>guadeloupe.mssante.fr : 72</li>
+    <li>chu-poitiers.mssante.fr : 788</li>
+    <li>chu-reims.mssante.fr : 0</li>
+    <li>chu-rennes.mssante.fr : 1</li>
+    <li>chu-rouen.mssante.fr : 1256</li>
+    <li>chu-st-etienne.mssante.fr : 0</li>
+    <li>chru-strasbourg.mssante.fr : 14</li>
+    <li>chu-toulouse.mssante.fr : 1483</li>
+    <li>chu-tours.mssante.fr : 886</li>
+  </ul>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-03-27T08:56:48.600028+00:00</updated>
+    <summary>Informations sur la publication RPPS du 20180325</summary>
+  </entry>
+  <entry>
+    <title>Mise à jour RPPS du 20180324</title>
+    <link href="https://www.opikanoba.org/data/rpps/rpps_index_20180324.csv" rel="related" type="text/plain"/>
+    <id>rpps20180324</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://www.opikanoba.org/data/rpps/rpps_index_20180324.csv">https://www.opikanoba.org/data/rpps/rpps_index_20180324.csv</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+  <h1>Modifications</h1>
+  <h2>Informations générales</h2>
+  <ul>
+    <li>Nombre de lignes : 695316</li>
+    <li>Nombre de RPPS : 562246</li>
+    <li>Mails MSsante : 87644</li>
+    <li>Domaines MSsante : 440</li>
+  </ul>
+  <h2>Top 10</h2>
+  <ul>
+    <li>medecin.mssante.fr : 34458</li>
+    <li>ramsaygds.mssante.fr : 11986</li>
+    <li>aura.mssante.fr : 11556</li>
+    <li>medecin.mp.mssante.fr : 5837</li>
+    <li>sephira.mssante.fr : 5439</li>
+    <li>pro.mssante.fr : 4582</li>
+    <li>chu-montpellier.mssante.fr : 2688</li>
+    <li>ssa.mssante.fr : 2572</li>
+    <li>aquitaine.mssante.fr : 2393</li>
+    <li>pc.mssante.fr : 2183</li>
+  </ul>
+  <h2>chu-mssante</h2>
+  <ul>
+    <li>chu-amiens.mssante.fr : 0</li>
+    <li>chu-rennes.mssante.fr : 1</li>
+    <li>chu-besancon.mssante.fr : 11</li>
+    <li>chu-bordeaux.mssante.fr : 120</li>
+    <li>chu-brest.mssante.fr : 0</li>
+    <li>chu-caen.mssante.fr : 839</li>
+    <li>chu-clermontferrand.mssante.fr : 99</li>
+    <li>chu-dijon.mssante.fr : 1014</li>
+    <li>chu-grenoble.mssante.fr : 0</li>
+    <li>chu-lille.mssante.fr : 0</li>
+    <li>chu-limoges.mssante.fr : 892</li>
+    <li>chu-lyon.mssante.fr : 5</li>
+    <li>aphm.mssante.fr : 11</li>
+    <li>sante-martinique.mssante.fr : 64</li>
+    <li>hpdir-metz.mssante.fr : 0</li>
+    <li>chu-montpellier.mssante.fr : 2688</li>
+    <li>chu-nancy.mssante.fr : 0</li>
+    <li>chu-nantes.mssante.fr : 0</li>
+    <li>chu-nice.mssante.fr : 660</li>
+    <li>chu-nimes.mssante.fr : 915</li>
+    <li>chr-orleans.mssante.fr : 134</li>
+    <li>aphp.mssante.fr : 251</li>
+    <li>guadeloupe.mssante.fr : 72</li>
+    <li>chu-poitiers.mssante.fr : 788</li>
+    <li>chu-reims.mssante.fr : 0</li>
+    <li>chu-rennes.mssante.fr : 1</li>
+    <li>chu-rouen.mssante.fr : 1256</li>
+    <li>chu-st-etienne.mssante.fr : 0</li>
+    <li>chru-strasbourg.mssante.fr : 14</li>
+    <li>chu-toulouse.mssante.fr : 1483</li>
+    <li>chu-tours.mssante.fr : 886</li>
+  </ul>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-03-27T08:53:39.123269+00:00</updated>
+    <summary>Informations sur la publication RPPS du 20180324</summary>
+  </entry>
+  <entry>
+    <title>Mise à jour RPPS du 20180323</title>
+    <link href="https://www.opikanoba.org/data/rpps/rpps_index_20180323.csv" rel="related" type="text/plain"/>
+    <id>rpps20180323</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://www.opikanoba.org/data/rpps/rpps_index_20180323.csv">https://www.opikanoba.org/data/rpps/rpps_index_20180323.csv</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+  <h1>Modifications</h1>
+  <h2>Informations générales</h2>
+  <ul>
+    <li>Nombre de lignes : 695323</li>
+    <li>Nombre de RPPS : 562230</li>
+    <li>Mails MSsante : 87565</li>
+    <li>Domaines MSsante : 439</li>
+  </ul>
+  <h2>Top 10</h2>
+  <ul>
+    <li>medecin.mssante.fr : 34441</li>
+    <li>ramsaygds.mssante.fr : 11985</li>
+    <li>aura.mssante.fr : 11535</li>
+    <li>medecin.mp.mssante.fr : 5838</li>
+    <li>sephira.mssante.fr : 5439</li>
+    <li>pro.mssante.fr : 4570</li>
+    <li>chu-montpellier.mssante.fr : 2688</li>
+    <li>ssa.mssante.fr : 2572</li>
+    <li>aquitaine.mssante.fr : 2387</li>
+    <li>pc.mssante.fr : 2179</li>
+  </ul>
+  <h2>chu-mssante</h2>
+  <ul>
+    <li>chu-amiens.mssante.fr : 0</li>
+    <li>chu-rennes.mssante.fr : 1</li>
+    <li>chu-besancon.mssante.fr : 11</li>
+    <li>chu-bordeaux.mssante.fr : 120</li>
+    <li>chu-brest.mssante.fr : 0</li>
+    <li>chu-caen.mssante.fr : 839</li>
+    <li>chu-clermontferrand.mssante.fr : 99</li>
+    <li>chu-dijon.mssante.fr : 1014</li>
+    <li>chu-grenoble.mssante.fr : 0</li>
+    <li>chu-lille.mssante.fr : 0</li>
+    <li>chu-limoges.mssante.fr : 894</li>
+    <li>chu-lyon.mssante.fr : 5</li>
+    <li>aphm.mssante.fr : 11</li>
+    <li>sante-martinique.mssante.fr : 64</li>
+    <li>hpdir-metz.mssante.fr : 0</li>
+    <li>chu-montpellier.mssante.fr : 2688</li>
+    <li>chu-nancy.mssante.fr : 0</li>
+    <li>chu-nantes.mssante.fr : 0</li>
+    <li>chu-nice.mssante.fr : 660</li>
+    <li>chu-nimes.mssante.fr : 915</li>
+    <li>chr-orleans.mssante.fr : 134</li>
+    <li>aphp.mssante.fr : 251</li>
+    <li>guadeloupe.mssante.fr : 72</li>
+    <li>chu-poitiers.mssante.fr : 788</li>
+    <li>chu-reims.mssante.fr : 0</li>
+    <li>chu-rennes.mssante.fr : 1</li>
+    <li>chu-rouen.mssante.fr : 1258</li>
+    <li>chu-st-etienne.mssante.fr : 0</li>
+    <li>chru-strasbourg.mssante.fr : 14</li>
+    <li>chu-toulouse.mssante.fr : 1482</li>
+    <li>chu-tours.mssante.fr : 886</li>
+  </ul>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-03-27T08:52:22.316210+00:00</updated>
+    <summary>Informations sur la publication RPPS du 20180323</summary>
+  </entry>
+  <entry>
+    <title>Mise à jour RPPS du 20180322</title>
+    <link href="https://www.opikanoba.org/data/rpps/rpps_index_20180322.csv" rel="related" type="text/plain"/>
+    <id>rpps20180322</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://www.opikanoba.org/data/rpps/rpps_index_20180322.csv">https://www.opikanoba.org/data/rpps/rpps_index_20180322.csv</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+  <h1>Modifications</h1>
+  <h2>Informations générales</h2>
+  <ul>
+    <li>Nombre de lignes : 695265</li>
+    <li>Nombre de RPPS : 562193</li>
+    <li>Mails MSsante : 87491</li>
+    <li>Domaines MSsante : 439</li>
+  </ul>
+  <h2>Top 10</h2>
+  <ul>
+    <li>medecin.mssante.fr : 34409</li>
+    <li>ramsaygds.mssante.fr : 11987</li>
+    <li>aura.mssante.fr : 11522</li>
+    <li>medecin.mp.mssante.fr : 5839</li>
+    <li>sephira.mssante.fr : 5441</li>
+    <li>pro.mssante.fr : 4555</li>
+    <li>chu-montpellier.mssante.fr : 2688</li>
+    <li>ssa.mssante.fr : 2571</li>
+    <li>aquitaine.mssante.fr : 2384</li>
+    <li>pc.mssante.fr : 2179</li>
+  </ul>
+  <h2>chu-mssante</h2>
+  <ul>
+    <li>chu-amiens.mssante.fr : 0</li>
+    <li>chu-rennes.mssante.fr : 1</li>
+    <li>chu-besancon.mssante.fr : 11</li>
+    <li>chu-bordeaux.mssante.fr : 120</li>
+    <li>chu-brest.mssante.fr : 0</li>
+    <li>chu-caen.mssante.fr : 839</li>
+    <li>chu-clermontferrand.mssante.fr : 99</li>
+    <li>chu-dijon.mssante.fr : 1014</li>
+    <li>chu-grenoble.mssante.fr : 0</li>
+    <li>chu-lille.mssante.fr : 0</li>
+    <li>chu-limoges.mssante.fr : 894</li>
+    <li>chu-lyon.mssante.fr : 5</li>
+    <li>aphm.mssante.fr : 11</li>
+    <li>sante-martinique.mssante.fr : 64</li>
+    <li>hpdir-metz.mssante.fr : 0</li>
+    <li>chu-montpellier.mssante.fr : 2688</li>
+    <li>chu-nancy.mssante.fr : 0</li>
+    <li>chu-nantes.mssante.fr : 0</li>
+    <li>chu-nice.mssante.fr : 660</li>
+    <li>chu-nimes.mssante.fr : 915</li>
+    <li>chr-orleans.mssante.fr : 134</li>
+    <li>aphp.mssante.fr : 251</li>
+    <li>guadeloupe.mssante.fr : 71</li>
+    <li>chu-poitiers.mssante.fr : 788</li>
+    <li>chu-reims.mssante.fr : 0</li>
+    <li>chu-rennes.mssante.fr : 1</li>
+    <li>chu-rouen.mssante.fr : 1258</li>
+    <li>chu-st-etienne.mssante.fr : 0</li>
+    <li>chru-strasbourg.mssante.fr : 14</li>
+    <li>chu-toulouse.mssante.fr : 1482</li>
+    <li>chu-tours.mssante.fr : 886</li>
+  </ul>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-03-27T08:51:39.765934+00:00</updated>
+    <summary>Informations sur la publication RPPS du 20180322</summary>
+  </entry>
+  <entry>
+    <title>Mise à jour RPPS du 20180321</title>
+    <link href="https://www.opikanoba.org/data/rpps/rpps_index_20180321.csv" rel="related" type="text/plain"/>
+    <id>rpps20180321</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://www.opikanoba.org/data/rpps/rpps_index_20180321.csv">https://www.opikanoba.org/data/rpps/rpps_index_20180321.csv</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+  <h1>Modifications</h1>
+  <h2>Informations générales</h2>
+  <ul>
+    <li>Nombre de lignes : 695205</li>
+    <li>Nombre de RPPS : 562136</li>
+    <li>Mails MSsante : 87302</li>
+    <li>Domaines MSsante : 438</li>
+  </ul>
+  <h2>Top 10</h2>
+  <ul>
+    <li>medecin.mssante.fr : 34381</li>
+    <li>ramsaygds.mssante.fr : 11993</li>
+    <li>aura.mssante.fr : 11512</li>
+    <li>medecin.mp.mssante.fr : 5839</li>
+    <li>sephira.mssante.fr : 5441</li>
+    <li>pro.mssante.fr : 4534</li>
+    <li>chu-montpellier.mssante.fr : 2688</li>
+    <li>ssa.mssante.fr : 2571</li>
+    <li>aquitaine.mssante.fr : 2380</li>
+    <li>pc.mssante.fr : 2178</li>
+  </ul>
+  <h2>chu-mssante</h2>
+  <ul>
+    <li>chu-amiens.mssante.fr : 0</li>
+    <li>chu-rennes.mssante.fr : 1</li>
+    <li>chu-besancon.mssante.fr : 11</li>
+    <li>chu-bordeaux.mssante.fr : 120</li>
+    <li>chu-brest.mssante.fr : 0</li>
+    <li>chu-caen.mssante.fr : 839</li>
+    <li>chu-clermontferrand.mssante.fr : 99</li>
+    <li>chu-dijon.mssante.fr : 1014</li>
+    <li>chu-grenoble.mssante.fr : 0</li>
+    <li>chu-lille.mssante.fr : 0</li>
+    <li>chu-limoges.mssante.fr : 894</li>
+    <li>chu-lyon.mssante.fr : 5</li>
+    <li>aphm.mssante.fr : 11</li>
+    <li>sante-martinique.mssante.fr : 64</li>
+    <li>hpdir-metz.mssante.fr : 0</li>
+    <li>chu-montpellier.mssante.fr : 2688</li>
+    <li>chu-nancy.mssante.fr : 0</li>
+    <li>chu-nantes.mssante.fr : 0</li>
+    <li>chu-nice.mssante.fr : 660</li>
+    <li>chu-nimes.mssante.fr : 915</li>
+    <li>chr-orleans.mssante.fr : 134</li>
+    <li>aphp.mssante.fr : 251</li>
+    <li>guadeloupe.mssante.fr : 70</li>
+    <li>chu-poitiers.mssante.fr : 788</li>
+    <li>chu-reims.mssante.fr : 0</li>
+    <li>chu-rennes.mssante.fr : 1</li>
+    <li>chu-rouen.mssante.fr : 1256</li>
+    <li>chu-st-etienne.mssante.fr : 0</li>
+    <li>chru-strasbourg.mssante.fr : 14</li>
+    <li>chu-toulouse.mssante.fr : 1482</li>
+    <li>chu-tours.mssante.fr : 886</li>
+  </ul>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-03-27T08:49:54.956791+00:00</updated>
+    <summary>Informations sur la publication RPPS du 20180321</summary>
+  </entry>
+  <entry>
+    <title>Mise à jour RPPS du 20180320</title>
+    <link href="https://www.opikanoba.org/data/rpps/rpps_index_20180320.csv" rel="related" type="text/plain"/>
+    <id>rpps20180320</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://www.opikanoba.org/data/rpps/rpps_index_20180320.csv">https://www.opikanoba.org/data/rpps/rpps_index_20180320.csv</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+  <h1>Modifications</h1>
+  <h2>Informations générales</h2>
+  <ul>
+    <li>Nombre de lignes : 695081</li>
+    <li>Nombre de RPPS : 562087</li>
+    <li>Mails MSsante : 87079</li>
+    <li>Domaines MSsante : 437</li>
+  </ul>
+  <h2>Top 10</h2>
+  <ul>
+    <li>medecin.mssante.fr : 34355</li>
+    <li>ramsaygds.mssante.fr : 11989</li>
+    <li>aura.mssante.fr : 11506</li>
+    <li>medecin.mp.mssante.fr : 5838</li>
+    <li>sephira.mssante.fr : 5441</li>
+    <li>pro.mssante.fr : 4516</li>
+    <li>chu-montpellier.mssante.fr : 2690</li>
+    <li>ssa.mssante.fr : 2574</li>
+    <li>aquitaine.mssante.fr : 2377</li>
+    <li>pc.mssante.fr : 2173</li>
+  </ul>
+  <h2>chu-mssante</h2>
+  <ul>
+    <li>chu-amiens.mssante.fr : 0</li>
+    <li>chu-rennes.mssante.fr : 1</li>
+    <li>chu-besancon.mssante.fr : 11</li>
+    <li>chu-bordeaux.mssante.fr : 120</li>
+    <li>chu-brest.mssante.fr : 0</li>
+    <li>chu-caen.mssante.fr : 839</li>
+    <li>chu-clermontferrand.mssante.fr : 99</li>
+    <li>chu-dijon.mssante.fr : 1014</li>
+    <li>chu-grenoble.mssante.fr : 0</li>
+    <li>chu-lille.mssante.fr : 0</li>
+    <li>chu-limoges.mssante.fr : 895</li>
+    <li>chu-lyon.mssante.fr : 5</li>
+    <li>aphm.mssante.fr : 11</li>
+    <li>sante-martinique.mssante.fr : 64</li>
+    <li>hpdir-metz.mssante.fr : 0</li>
+    <li>chu-montpellier.mssante.fr : 2690</li>
+    <li>chu-nancy.mssante.fr : 0</li>
+    <li>chu-nantes.mssante.fr : 0</li>
+    <li>chu-nice.mssante.fr : 660</li>
+    <li>chu-nimes.mssante.fr : 915</li>
+    <li>chr-orleans.mssante.fr : 134</li>
+    <li>aphp.mssante.fr : 251</li>
+    <li>guadeloupe.mssante.fr : 70</li>
+    <li>chu-poitiers.mssante.fr : 788</li>
+    <li>chu-reims.mssante.fr : 0</li>
+    <li>chu-rennes.mssante.fr : 1</li>
+    <li>chu-rouen.mssante.fr : 1256</li>
+    <li>chu-st-etienne.mssante.fr : 0</li>
+    <li>chru-strasbourg.mssante.fr : 14</li>
+    <li>chu-toulouse.mssante.fr : 1482</li>
+    <li>chu-tours.mssante.fr : 886</li>
+  </ul>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-03-27T08:47:49.128858+00:00</updated>
+    <summary>Informations sur la publication RPPS du 20180320</summary>
+  </entry>
+  <entry>
+    <title>Mise à jour RPPS du 20180320</title>
+    <link href="https://www.opikanoba.org/data/rpps/rpps_index_20180320.csv" rel="related" type="text/plain"/>
+    <id>rpps20180320</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://www.opikanoba.org/data/rpps/rpps_index_20180320.csv">https://www.opikanoba.org/data/rpps/rpps_index_20180320.csv</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+  <h1>Modifications</h1>
+  <h2>Informations générales</h2>
+  <ul>
+    <li>Nombre de lignes : 695081</li>
+    <li>Nombre de RPPS : 562087</li>
+    <li>Mails MSsante : 87079</li>
+    <li>Domaines MSsante : 437</li>
+  </ul>
+  <h2>Top 10</h2>
+  <ul>
+    <li>medecin.mssante.fr : 34355</li>
+    <li>ramsaygds.mssante.fr : 11989</li>
+    <li>aura.mssante.fr : 11506</li>
+    <li>medecin.mp.mssante.fr : 5838</li>
+    <li>sephira.mssante.fr : 5441</li>
+    <li>pro.mssante.fr : 4516</li>
+    <li>chu-montpellier.mssante.fr : 2690</li>
+    <li>ssa.mssante.fr : 2574</li>
+    <li>aquitaine.mssante.fr : 2377</li>
+    <li>pc.mssante.fr : 2173</li>
+  </ul>
+  <h2>chu-mssante</h2>
+  <ul>
+    <li>chu-amiens.mssante.fr : 0</li>
+    <li>chu-rennes.mssante.fr : 1</li>
+    <li>chu-besancon.mssante.fr : 11</li>
+    <li>chu-bordeaux.mssante.fr : 120</li>
+    <li>chu-brest.mssante.fr : 0</li>
+    <li>chu-caen.mssante.fr : 839</li>
+    <li>chu-clermontferrand.mssante.fr : 99</li>
+    <li>chu-dijon.mssante.fr : 1014</li>
+    <li>chu-grenoble.mssante.fr : 0</li>
+    <li>chu-lille.mssante.fr : 0</li>
+    <li>chu-limoges.mssante.fr : 895</li>
+    <li>chu-lyon.mssante.fr : 5</li>
+    <li>aphm.mssante.fr : 11</li>
+    <li>sante-martinique.mssante.fr : 64</li>
+    <li>hpdir-metz.mssante.fr : 0</li>
+    <li>chu-montpellier.mssante.fr : 2690</li>
+    <li>chu-nancy.mssante.fr : 0</li>
+    <li>chu-nantes.mssante.fr : 0</li>
+    <li>chu-nice.mssante.fr : 660</li>
+    <li>chu-nimes.mssante.fr : 915</li>
+    <li>chr-orleans.mssante.fr : 134</li>
+    <li>aphp.mssante.fr : 251</li>
+    <li>guadeloupe.mssante.fr : 70</li>
+    <li>chu-poitiers.mssante.fr : 788</li>
+    <li>chu-reims.mssante.fr : 0</li>
+    <li>chu-rennes.mssante.fr : 1</li>
+    <li>chu-rouen.mssante.fr : 1256</li>
+    <li>chu-st-etienne.mssante.fr : 0</li>
+    <li>chru-strasbourg.mssante.fr : 14</li>
+    <li>chu-toulouse.mssante.fr : 1482</li>
+    <li>chu-tours.mssante.fr : 886</li>
+  </ul>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-03-27T08:45:41.275913+00:00</updated>
+    <summary>Informations sur la publication RPPS du 20180320</summary>
+  </entry>
+</feed>
