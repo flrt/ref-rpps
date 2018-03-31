@@ -1,7 +1,7 @@
 {
-  "server": "ftp.cluster010.ovh.net",
+  "server": "ftp.blabla.org",
   "port": 21,
-  "user": "opikanob",
-  "passwd": "P3lisse1973",
-  "remotedir": "/www/data/rpps"
+  "user": "user",
+  "passwd": "pwd",
+  "remotedir": "tmp"
 }
