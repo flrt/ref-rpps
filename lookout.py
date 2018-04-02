@@ -110,7 +110,7 @@ class App:
             if new_data_file:
                 # find diff
                 diff_list = self.diff.find_diff(new_data_file)
-                data_tracks = self.rpps_data.extract_data(new_data_file)
+                data_tracks = self.rpps_data.extract_data(new_data_file, diff_list)
 
                 self.rpps_data.save_diff_files(self.diff_data_filename,
                                                self.diff_index_filename,
@@ -127,7 +127,7 @@ class App:
                         rpps_updates = {"updates": []}
 
                     self.logger.info(rpps_updates)
-                    d = self.rpps_data.feed_info(data_tracks, diff_list)
+                    d = self.rpps_data.feed_info(data_tracks)
                     rpps_updates["updates"].insert(0, d)
                     helpers.save_json(self.rss_filename, rpps_updates)
 
@@ -160,14 +160,17 @@ class App:
         data_tracks = self.rpps_data.extract_data(csvfile)
 
         for data in data_tracks:
-            self.logger.info("######## DATA %s  ########" % data["type"])
-            self.logger.info(" filename > %s" % data["filename"])
-            self.logger.info(" history  > %s" % data['history_flag'])
+            self.logger.debug("######## DATA %s  ########" % data["type"])
+            self.logger.debug(" filename > {} - history {}".format(data["filename"], data['history_flag']))
 
             maxlen = max(list(map(lambda x: len(x["key"]), data["values"])))
 
             for val in data["values"]:
-                self.logger.info(f'  {val["key"]:{"<"}{maxlen}} = {val["val"]}')
+                # self.logger.info(f'  {val["key"]:{"<"}{maxlen}} = {val["val"]}')
+                self.logger.info('  {mykey:{"<"}{width}} = {myvalue}'.format(mykey=val["key"],
+                                                                             myvalue=val["val"],
+                                                                             width=maxlen))
+
 
     def upload_data(self, config):
         """

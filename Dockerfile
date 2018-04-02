@@ -1,4 +1,4 @@
-FROM python:3.6
+FROM python:3.5
 LABEL maintainer="frederic.laurent@gmail.com"
 
 RUN apt-get update
