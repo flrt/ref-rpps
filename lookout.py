@@ -94,6 +94,10 @@ class App:
         self.logger.debug("Start...")
         try:
             if csvfile:
+                if not os.path.exists(csvfile):
+                    self.logger.error("File {} not found !".format(csvfile))
+                    sys.exit(1)
+
                 # use arg filename
                 _, data_date = self.rpps_data.extract_data_filename(csvfile)
                 self.rpps_data.data_date = data_date[:8]
