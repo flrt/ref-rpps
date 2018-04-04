@@ -15,6 +15,7 @@ import argparse
 import logging
 import os.path
 import sys
+from datetime import datetime as dt
 
 from easy_atom import action
 from easy_atom import atom
@@ -100,7 +101,7 @@ class App:
 
                 # use arg filename
                 _, data_date = self.rpps_data.extract_data_filename(csvfile)
-                self.rpps_data.data_date = data_date[:8]
+                self.rpps_data.data_date = dt.strptime(data_date, '%Y%m%d%H%M').strftime("%Y-%m-%d")
                 self.rpps_data.last_check_date = data_date
                 self.init_properties()
                 new_data_file = csvfile
