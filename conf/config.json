@@ -1,9 +1,9 @@
 {
     "local": {
-        "data_filename": "files/ExtractionMonoTable_CAT18_ToutePopulation_201803270825.csv",
+        "data_filename": "files/ExtractionMonoTable_CAT18_ToutePopulation_201804060816.csv",
         "data_filename_mask": "rpps_data_{}.csv",
         "index_filename_mask": "rpps_index_{}.csv",
-        "last_check": "201803271030",
+        "last_check": "201804061021",
         "rss_updates_filename": "rss_updates.json",
         "save_diff_data": false,
         "save_diff_index": true,
