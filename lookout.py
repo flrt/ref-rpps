@@ -55,6 +55,8 @@ class App:
 
         self.rpps_data = practitioner.RPPS(properties=self.properties)
 
+        self.data_files = []
+
         self.init_properties()
 
     def init_properties(self):
@@ -121,7 +123,9 @@ class App:
                                                self.diff_index_filename,
                                                diff_list)
 
-                self.rpps_data.save_tracks(data_tracks)
+                # add tracks file names in produced data files
+                self.data_files.extend(self.rpps_data.data_files)
+                self.data_files.extend(self.rpps_data.save_tracks(data_tracks))
 
                 # update RSS
                 if self.rss_filename:
@@ -185,9 +189,9 @@ class App:
         """
 
         self.logger.info("Upload data updates : %s" %
-                         self.rpps_data.data_files)
+                         self.data_files)
         act = action.UploadAction(conf_filename=config)
-        act.process(self.rpps_data.data_files)
+        act.process(self.data_files)
 
     def upload_feed(self, config):
         """

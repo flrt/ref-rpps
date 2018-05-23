@@ -341,9 +341,11 @@ class RPPS:
         """
             Save data in filename, if a filename is configured
         :param data_tracks: data to save
-        :return: -
+        :return saved : name list of data files 
         """
         self.logger.info("Save %d tracks" % len(data_tracks))
+        saved=[]
+
         for data in data_tracks:
             self.logger.debug("##> %s" % data)
             # Save data if needed
@@ -351,6 +353,9 @@ class RPPS:
                 self.save_tracks_set(
                     os.path.join(self.local_storage, data["filename"]),
                     data, data['history_flag'])
+                saved.append(data["filename"])
+        
+        return saved
 
     def save_tracks_set(self, filename, data, history_flag):
         """
