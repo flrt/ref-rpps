@@ -349,11 +349,10 @@ class RPPS:
         for data in data_tracks:
             self.logger.debug("##> %s" % data)
             # Save data if needed
+            filename = os.path.join(self.local_storage, data["filename"])
             if data["filename"]:
-                self.save_tracks_set(
-                    os.path.join(self.local_storage, data["filename"]),
-                    data, data['history_flag'])
-                saved.append(data["filename"])
+                self.save_tracks_set(filename, data, data['history_flag'])
+                saved.append(filename)
         
         return saved
 
