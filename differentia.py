@@ -11,8 +11,11 @@ __license__ = "MIT"
 
 import logging
 import os.path
+import argparse
+from collections import namedtuple
 
 import digester
+import helpers
 
 
 class Diff:
@@ -67,3 +70,19 @@ class Diff:
         with open(os.path.join(storage_dir, filename), 'w') as fout:
             for s, l, t in difflist:
                 fout.write('%s\n' % l)
+
+if __name__ == "__main__":
+    loggers = helpers.stdout_logger([ 'differentia', 'digester'], logging.INFO)
+    parser = argparse.ArgumentParser()
+    parser.add_argument("previous", help="previous data file")
+    parser.add_argument("next", help="next data file")
+    parser.add_argument("output", help="output file name")
+    args = parser.parse_args()
+
+    DataFile=namedtuple('DataFile', 'data_filename')
+    Properties=namedtuple('Properties','local')
+
+    diff=Diff(properties=Properties(DataFile(data_filename=args.previous)))
+    data = diff.find_diff(args.next)
+    diff.save_diff(data, args.output)
+    

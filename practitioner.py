@@ -283,8 +283,8 @@ class RPPS:
                              delimiter=';',
                              names=RPPS.KEYS_CAT18, header=0, index_col=False)
 
-        mss_providers = df.adresse_bal_mssante.str.split(
-            '@', expand=True).get(1)
+        df2 = df.loc[df.drop_duplicates('adresse_bal_mssante').adresse_bal_mssante.dropna().index]
+        mss_providers = df2.adresse_bal_mssante.str.split('@', expand=True).get(1)
 
         glob_history_flag = 'stats' in self.tracks._fields and 'save_history' in self.tracks.stats._fields and self.tracks.stats.save_history
 

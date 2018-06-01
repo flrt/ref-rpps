@@ -13,6 +13,9 @@ __license__ = "MIT"
 import hashlib
 import logging
 import os.path
+import argparse
+
+import helpers
 
 
 class Digester:
@@ -101,3 +104,13 @@ class Digester:
         with open(filename, "r") as fin:
             for line in fin.readlines():
                 self.data.append(line.strip())
+
+if __name__ == "__main__":
+    loggers = helpers.stdout_logger(['digester'], logging.INFO)
+    parser = argparse.ArgumentParser()
+    parser.add_argument("file", help="data file")
+    args = parser.parse_args()
+
+    dig = Digester()
+    dig.make_digest(args.file)
+    
