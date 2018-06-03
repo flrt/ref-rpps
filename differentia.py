@@ -15,7 +15,7 @@ import argparse
 from collections import namedtuple
 
 import digester
-import helpers
+from easy_atom import helpers
 
 
 class Diff:
