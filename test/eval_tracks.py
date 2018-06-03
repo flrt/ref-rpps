@@ -72,7 +72,7 @@ MSSANTE =  [{
 
 def main(directory):
     logger = logging.getLogger('test')
-    re_rpps_fn = re.compile(r'.*?(ExtractionMonoTable_CAT18_ToutePopulation_(\d+).(zip|csv))')
+    re_rpps_fn = re.compile(r'.*?(ExtractionMonoTable_CAT18_ToutePopulation_(\d+).csv)')
     _fmt = '%Y%m%d%H%M'
 
     logger.info("File : {}".format(directory))

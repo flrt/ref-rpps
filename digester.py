@@ -15,7 +15,7 @@ import logging
 import os.path
 import argparse
 
-import helpers
+from easy_atom import helpers
 
 
 class Digester:
